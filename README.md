@@ -63,8 +63,8 @@
 ![IMG_5091](https://user-images.githubusercontent.com/61602042/156165590-bfc70709-aae8-4885-b946-88ed9b0059b1.PNG)
 ![IMG_5092](https://user-images.githubusercontent.com/61602042/156165533-977fc989-38b7-4d61-94ef-8fd597b5d349.PNG)
 
-- [![Interview]](https://user-images.githubusercontent.com/61602042/156164513-4c5a6e3b-eddf-44f1-b0d5-df1620383ba1.mp4)
-- [![Search]](https://user-images.githubusercontent.com/61602042/156164647-0f0b2809-d31d-46fd-ba3c-b29212384ee6.mp4)
-- [![Favourite]](https://user-images.githubusercontent.com/61602042/156164681-a2e1f391-d648-4424-ae99-d7471bb03944.mp4)
-- [![Random recipe and interview reset]](https://user-images.githubusercontent.com/61602042/156164761-428f78c3-61b6-4358-b0e1-041a19ee348f.mp4)
+- [[Interview]](https://user-images.githubusercontent.com/61602042/156164513-4c5a6e3b-eddf-44f1-b0d5-df1620383ba1.mp4)
+- [[Search]](https://user-images.githubusercontent.com/61602042/156164647-0f0b2809-d31d-46fd-ba3c-b29212384ee6.mp4)
+- [[Favourite]](https://user-images.githubusercontent.com/61602042/156164681-a2e1f391-d648-4424-ae99-d7471bb03944.mp4)
+- [[Random recipe and interview reset]](https://user-images.githubusercontent.com/61602042/156164761-428f78c3-61b6-4358-b0e1-041a19ee348f.mp4)
 

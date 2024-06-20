@@ -8,7 +8,7 @@ import {
   logicForHomePage
 } from "./modules/interviewScreen.mjs";
 const body = document.querySelector("body");
-var API_KEY = "f2243bf8842c499687d8329548637d47"
+var API_KEY = "x"
 
 const insertScreen = (elToInsert) => {
   body.appendChild(elToInsert);
